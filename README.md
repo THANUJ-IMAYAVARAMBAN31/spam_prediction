@@ -243,6 +243,3 @@ https://spam-prediction-t45q.onrender.com/
 
 ---
 
-## Author
-
-Built as a machine learning + deployment project showcasing end-to-end spam classification.
