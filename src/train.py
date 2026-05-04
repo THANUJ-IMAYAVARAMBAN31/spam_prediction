@@ -27,7 +27,7 @@ print("Confusion Matrix:")
 print(confusion_score)
 
 # Save model
-with open("models/best_model.pkl", "wb") as f:
+with open("project/models/best_model.pkl", "wb") as f:
     pickle.dump(pipe, f)
 
 print("Model saved successfully.")
